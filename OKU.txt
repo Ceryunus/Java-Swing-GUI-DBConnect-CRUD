@@ -1,0 +1,3 @@
+MYSQL veritabanındaki örnek veriyi kullandım (Databaase: World ,Table: City).
+Database Helper Classında ise DB Username ve Passwordu kendinizin sifresine göre deyiştirmeyi unutmayın.
+:)
